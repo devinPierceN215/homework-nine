@@ -1,30 +1,27 @@
-# Homework Six - Tours
+# Homework Nine - MVC
 
-This add the tours page and corresponding detailed tour pages to Travel Fly, expanding upon the web pages made previously.
+This page uses an MVC model to create a one page application.
 
 ## Purpose
 
 This homework assignment will:
 
-* Create multiple pages from a CSS class 
-* Make a CSS template
-* Teach you how to make your site responsive
-* Teach you how to deal with images next to text 
-* Use media queries
-* Use percentages
+* Teach you how to set up a simple MVC project
+* Teach you how to interact with another js file
+* Display information on a page. 
+* Interact with elements with jQuery
 
 ## Task
 
-For this homework assignment, you will be making the tour page and the individual tour pages from the Travel-fly prototype and making it responsive.
+For this homework assignment, you will:
 
-* You must create a project named homework-six.
-* You must build off of the previous assignment. 
-* You must fix any issues with the previous assignment, especially if it doesn't look like the prototype. 
-* Your tour page must look like the prototype. Your text must look good inside each image. 
-* Each individual page must look like the prototype and the text inside the header image must stay in place and the rest of the page must be responsive. 
-* Your page must be responsive. 
-* You can align the elements as you wish but they must look good and not touch the sides of the browser.
+* You must create a project named homework-nine
+* Create a navigation bar that has four links 
+* Add content to the page when you click on a link by using the MVC model and jQuery
+* Use only one page and load all the content onto that page 
+* Your site should be fully developed with content
+* Upload your project to Github and Web4 and add your Web4 link to the README file. 
 
-## Homework 4 URL
+## Homework 9 URL
 
-[web4 link](https://in-info-web4.informatics.iupui.edu/~jinipier/homework-six/tours.html)
+[web4 link](https://in-info-web4.informatics.iupui.edu/~jinipier/homework-nine)
